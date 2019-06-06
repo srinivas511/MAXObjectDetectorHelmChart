@@ -8,6 +8,6 @@ entries:
     digest: 0c4a056073daabbcc132259bf810b0c6ff211acb90f210e5adb55f110b672bc3
     name: MAXObjectDetector
     urls:
-    - https://github.com/jvora/MAXObjectDetectorHelm/tree/gh-pages/MAXObjectDetector-0.1.0.tgz
+    - https://raw.githubusercontent.com/jvora/MAXObjectDetectorHelmChart/blob/master/MAXObjectDetector-0.1.0.tgz
     version: 0.1.0
 generated: 2019-06-06T00:07:22.327487-05:00
